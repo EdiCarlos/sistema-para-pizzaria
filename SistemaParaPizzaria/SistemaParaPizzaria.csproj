@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{72A44B75-4A0C-41FA-9204-9121CA8007BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaParaPizzaria</RootNamespace>
+    <AssemblyName>SistemaParaPizzaria</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\favicon2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DesenvolveNet.Model">
+      <HintPath>..\..\..\..\..\SkyDrive\Minhas DLL\DesenvolveNet\DesenvolveNet.Model\bin\Debug\DesenvolveNet.Model.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.Entity, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Validacoes.Model">
+      <HintPath>..\..\..\..\..\SkyDrive\Minhas DLL\Validacoes\Validacoes.Model\bin\Debug\Validacoes.Model.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MovimentacaoCaixa.cs" />
+    <Compile Include="MovimentacaoCaixaDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\BusinessModel.cs" />
+    <Compile Include="SistemaParaPizzaria.View\frmBuscaFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmBuscaFornecedor.Designer.cs">
+      <DependentUpon>frmBuscaFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\Mensagem.cs" />
+    <Compile Include="SistemaParaPizzaria.View\frmBuscaCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmBuscaCategoria.Designer.cs">
+      <DependentUpon>frmBuscaCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroCliente.Designer.cs">
+      <DependentUpon>frmCadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\Cliente.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\ClienteDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\Categoria.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\CategoriaDao.cs" />
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroCategoria.Designer.cs">
+      <DependentUpon>frmCadastroCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\Fornecedor.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\FornecedorDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\ProdutoComposto.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\ProdutoCompostoDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\Conexao.cs" />
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroProduto.Designer.cs">
+      <DependentUpon>frmCadastroProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmMesa.Designer.cs">
+      <DependentUpon>frmMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\Pedido.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\PedidoDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\Produto.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\ProdutoDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\Program.cs" />
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroFornecedor.Designer.cs">
+      <DependentUpon>frmCadastroFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroUnidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroUnidade.Designer.cs">
+      <DependentUpon>frmCadastroUnidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmItemCardapio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmItemCardapio.Designer.cs">
+      <DependentUpon>frmItemCardapio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmAbrirMesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmAbrirMesa.Designer.cs">
+      <DependentUpon>frmAbrirMesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmCadastroFuncionario.Designer.cs">
+      <DependentUpon>frmCadastroFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmMovimentacaoCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.View\frmMovimentacaoCaixa.Designer.cs">
+      <DependentUpon>frmMovimentacaoCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\Login.cs" />
+    <Compile Include="SistemaParaPizzaria.Relatorios\frmRelatorioProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Relatorios\frmRelatorioProduto.Designer.cs">
+      <DependentUpon>frmRelatorioProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Relatorios\frmRelatorioVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Relatorios\frmRelatorioVendas.Designer.cs">
+      <DependentUpon>frmRelatorioVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Relatorios\frmRelatorioMovimentoCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Relatorios\frmRelatorioMovimentoCaixa.Designer.cs">
+      <DependentUpon>frmRelatorioMovimentoCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\ItemPedido.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\ItemPedidoDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\Mesa.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\MesaDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\LoginDao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SistemaParaPizzaria.Model\Unidade.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\UnidadeDao.cs" />
+    <Compile Include="SistemaParaPizzaria.Model\Usuario.cs" />
+    <Compile Include="SistemaParaPizzaria.Dao\UsuarioDao.cs" />
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmBuscaFornecedor.resx">
+      <DependentUpon>frmBuscaFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmBuscaCategoria.resx">
+      <DependentUpon>frmBuscaCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmCadastroCliente.resx">
+      <DependentUpon>frmCadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmCadastroCategoria.resx">
+      <DependentUpon>frmCadastroCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmCadastroProduto.resx">
+      <DependentUpon>frmCadastroProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmMesa.resx">
+      <DependentUpon>frmMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmCadastroFornecedor.resx">
+      <DependentUpon>frmCadastroFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmCadastroUnidade.resx">
+      <DependentUpon>frmCadastroUnidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmItemCardapio.resx">
+      <DependentUpon>frmItemCardapio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmAbrirMesa.resx">
+      <DependentUpon>frmAbrirMesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmCadastroFuncionario.resx">
+      <DependentUpon>frmCadastroFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.View\frmMovimentacaoCaixa.resx">
+      <DependentUpon>frmMovimentacaoCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.Relatorios\frmRelatorioProduto.resx">
+      <DependentUpon>frmRelatorioProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.Relatorios\frmRelatorioVendas.resx">
+      <DependentUpon>frmRelatorioVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SistemaParaPizzaria.Relatorios\frmRelatorioMovimentoCaixa.resx">
+      <DependentUpon>frmRelatorioMovimentoCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\mesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1408_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-appointment-new-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuration 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7178_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document-print-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Action-exit-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\topazio.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aventurina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornecedor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fornec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mesa1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visa_curved.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mastercard_curved.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\fileopen.png" />
+    <None Include="Resources\produto.png" />
+    <None Include="Resources\box.png" />
+    <Content Include="Resources\favicon.ico" />
+    <Content Include="Resources\favicon2.ico" />
+    <None Include="Resources\accept-icon.png" />
+    <None Include="Resources\cancel1.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\rel-mov-caixa.jpg" />
+    <None Include="Resources\rel-venda.jpg" />
+    <None Include="Resources\rel-produtos.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

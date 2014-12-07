@@ -1,0 +1,63 @@
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.exe
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.pdb
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.Properties.Resources.resources
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.csproj.GenerateResource.Cache
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.exe
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.pdb
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmPrincipal.resources
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmMesa.resources
+C:\Users\CLIENTE\Desktop\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroProduto.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.exe
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.pdb
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.exe
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.pdb
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.csprojResolveAssemblyReference.cache
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroProduto.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmMesa.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmPrincipal.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.Properties.Resources.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.csproj.GenerateResource.Cache
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroFornecedor.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroUnidade.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmItemCardapio.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.exe
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.pdb
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.exe
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.pdb
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.csprojResolveAssemblyReference.cache
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroProduto.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmMesa.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmPrincipal.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroFornecedor.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroUnidade.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmItemCardapio.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.Properties.Resources.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.csproj.GenerateResource.Cache
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmAbrirMesa.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroFuncionario.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmMovimentacaoCaixa.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmRelatorioProduto.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmRelatorioVendas.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmRelatorioMovimentoCaixa.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmAbrirMesa.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroFuncionario.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmMovimentacaoCaixa.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmRelatorioProduto.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmRelatorioVendas.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmRelatorioMovimentoCaixa.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.exe.config
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\SistemaParaPizzaria.exe.config
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\DesenvolveNet.Model.pdb
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\DesenvolveNet.Model.pdb
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\Validacoes.Model.pdb
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\Validacoes.Model.pdb
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroCategoria.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroCategoria.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroCliente.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmCadastroCliente.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmBuscaCategoria.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmBuscaCategoria.resources
+C:\Users\BalancaControle\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmBuscaFornecedor.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\obj\x86\Debug\SistemaParaPizzaria.frmBuscaFornecedor.resources
+G:\Dropbox\Projetos - Visual Studio2010\Sistema Para Pizzaria\SistemaParaPizzaria\SistemaParaPizzaria\bin\Debug\MySql.Data.Entity.dll
